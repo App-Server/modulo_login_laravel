@@ -1,6 +1,6 @@
 <x-layout title="Create users">
     <div class="main-content" >
-        <div class="container">
+        <div class="container-fluid">
             <h4>Create users</h4><br>
             <x-form-validation />
             <div class="card">

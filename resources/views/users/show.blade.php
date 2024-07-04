@@ -1,6 +1,6 @@
 <x-layout title="Details">
     <div class="main-content" >
-        <div class="container">
+        <div class="container-fluid">
             <h4>Details</h4>
             <br>
             <div class="card">

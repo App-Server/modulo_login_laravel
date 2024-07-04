@@ -1,6 +1,6 @@
 <x-layout title="Create edit">
     <div class="main-content" >
-        <div class="container">
+        <div class="container-fluid">
             <h4>Create edit</h4><br>
             <x-form-validation />
             <div class="card">
